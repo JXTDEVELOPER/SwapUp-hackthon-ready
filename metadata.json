@@ -1,0 +1,5 @@
+{
+  "name": "SwapUp - Community Skill-Sharing",
+  "description": "A full-stack web application that allows community members to exchange skills using a credit-based system, featuring AI-powered suggestions, geospatial discovery, and real-time chat.",
+  "requestFramePermissions": []
+}
